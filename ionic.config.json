@@ -1,0 +1,8 @@
+{
+  "name": "20230603_vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "e78283a7"
+}
